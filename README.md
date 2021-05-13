@@ -1,2 +1,4 @@
-# DataAnalysisPractice
-This is my first commit from my phone.
+#Data Analysis Practice
+
+This will be mostly focused on python and more specifically
+the pandas module.
